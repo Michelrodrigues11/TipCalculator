@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "RcGNH0/YPnD8LMqN57KJyWP5a8nf4+GEMbj2SH4ntTLU5VycO9m6J4ZB8UhmtCFELwcTJUsHTfh3gtbLwqap4w==",
+  "success": false,
+  "projectFilePath": "E:\\2 Módulo\\2DS_Michel\\Programação de Aplicativos Mobile I\\TipCalculator\\TipCalculator.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1012",
+      "level": "Error",
+      "message": "A versão da plataforma não está presente para uma ou mais estruturas de destino, embora elas tenham uma plataforma especificada: net7.0-android, net7.0-ios, net7.0-maccatalyst"
+    }
+  ]
+}
